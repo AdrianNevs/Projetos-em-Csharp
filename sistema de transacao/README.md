@@ -79,4 +79,40 @@ Também são recusadas transações quando:
 
 Ao final do processamento, o sistema apresenta:
 
-* Quantidade de transações aprovad
+* Quantidade de transações aprovadas;
+* Quantidade de transações recusadas;
+* Cliente com maior saldo;
+* Valor do maior saldo.
+
+## 🛠️ Conceitos praticados
+
+* `Dictionary<TKey, TValue>`
+* Arrays
+* `foreach`
+* Métodos
+* Parâmetros
+* `if / else`
+* Guard clauses / validações sequenciais
+* `ContainsKey()`
+* `Contains()`
+* `Split()`
+* `ToUpper()`
+* `ToTitleCase()`
+* `try / catch`
+* `FormatException`
+* `continue`
+* Manipulação de strings
+* Alteração de valores dentro de `Dictionary`
+* Contadores
+* Acumuladores
+* Busca do maior valor sem LINQ
+
+## 🚫 Restrições do Exercício do sistema. 
+
+O projeto foi desenvolvido como prática de C# **sem POO e sem LINQ**, utilizando apenas os recursos estudados até o momento.
+
+## 📈 Status
+
+**Finalizado ✅**
+
+Projeto desenvolvido como parte dos estudos de **C# antes de POO**, com foco em lógica de programação, tratamento de exceções e regras de negócio.
